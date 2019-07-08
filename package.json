@@ -1,0 +1,23 @@
+{
+  "name": "ratel-cli",
+  "version": "1.0.5",
+  "description": "",
+  "main": "bin/ratel.js",
+  "bin": {
+    "ratel": "bin/ratel.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wubinking",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "commander": "^2.20.0",
+    "ncp": "^2.0.0"
+  }
+}
